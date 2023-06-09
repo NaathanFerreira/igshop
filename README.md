@@ -27,9 +27,9 @@ IgShop is a project for clothes sale, with real checkout sessions.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/NaathanFerreira/cart-hook.git
+$ git clone https://github.com/NaathanFerreira/igshop.git
 # Access the project folder on terminal/cmd
-$ cd cart-hook
+$ cd igshop
 # Install dependencies
 $ yarn
 # or
